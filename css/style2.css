@@ -1,0 +1,57 @@
+html,body
+{
+    height: 100%;
+}
+
+header
+{
+    position:relative;
+    height: 100%;
+    background:#fff no-repeat center center;
+    background-image: url(../img/sfondo.jpg);
+    background-size:cover;
+    box-shadow:inset 0 -1px 5px rgba(0,0,0,0.6);
+}
+
+#testo-header
+{
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+
+#freccia-header
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-bottom: 10px solid #fff;
+}
+#freccia-header
+{
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto; /* dubbio*/
+    background-image: url(../img/freccia.png);
+}
+
+.col-xs-12{
+    width: 100%;
+}
+
+section h1
+{
+    position: relative;
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    height: 
+    margin: -170px auto 0;
+    padding: 40px;
+    background: #cbebf5;
+    box-shadow: 0 0 15px #000;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #010101;
+    
+}

@@ -1,0 +1,26 @@
+.img-fluid{
+    width: 100%;
+    height: auto;
+    
+}
+.navbar-brand{
+    font-size: 32px;
+    font-family: "Open Sans",sans-serif";
+}
+
+header.masthead{
+    position: relative;
+    background-color: red;
+    background: url("/img/sfondo.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300px;
+}
+
+.logo{
+    background-image: url(/img/elica.png);
+    width: 15px;
+    height: 15px;
+}
